@@ -11,8 +11,8 @@ To get started, install the required Python packages. If `geemap` is not install
 
 ## Google Earth Engine Registration
 1. Register on [Google Earth Engine](https://earthengine.google.com/).
-2. Create a new project with an ID (e.g., `ee-email_address`).
-3. Select "Register a Noncommercial or Commercial Cloud project" and choose "Unpaid usage."
+2. Select "Register a Noncommercial or Commercial Cloud project" and choose "Unpaid usage."
+3. Create a new project with an ID (e.g., `ee-email_address`).
 4. Execute the code under "Creation of the Environment Map" to generate an access code.
 
 ## Environment Map Setup
