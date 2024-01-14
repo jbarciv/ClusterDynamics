@@ -35,7 +35,7 @@ To get started, install the required Python packages. If `geemap` is not install
 Feel free to explore and analyze the results obtained from both supervised and unsupervised classification algorithms.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](../LICENSE).
 
 ## References
 
