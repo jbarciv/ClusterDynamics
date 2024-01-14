@@ -13,7 +13,7 @@ To get started, install and import all the libraries found in the "Package insta
 1. Register on [Google Earth Engine](https://earthengine.google.com/).
 2. Select "Register a Noncommercial or Commercial Cloud project" and choose "Unpaid usage" option (select the academic project).
 3. Create a new project with an ID (e.g., `ee-email_address`).
-4. Then select the option "Continue to Summary" and confirm your project and confirm your project.
+4. Then select the option "Continue to Summary" and confirm your project.
 
 ## Environment Map Setup
 1. Once the project has been created, returning to the program, we will proceed to execute section "Creation of the Environment Map"  when executing the command `Map = geemap.Map()`, you will be asked, on the bottom, for an access
