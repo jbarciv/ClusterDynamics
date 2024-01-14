@@ -1,7 +1,7 @@
-# Project Name
+# Urban Areas Exploration with Geemap
 
 ## Introduction
-This project involves the application of supervised and unsupervised classification algorithms on satellite images using Google Earth Engine.
+This project involves the application of supervised and unsupervised classification algorithms on satellite images using Google Earth Engine with Geemap.
 
 ## Installation
 To get started, install the required Python packages. If `geemap` is not installed, unzip it using the following command:
@@ -36,3 +36,8 @@ Feel free to explore and analyze the results obtained from both supervised and u
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## References
+
+Wu, Q., (2020). *geemap: A Python package for interactive mapping with Google Earth Engine*. The Journal of Open Source Software, 5(51), 2305. [https://doi.org/10.21105/joss.02305](https://doi.org/10.21105/joss.02305)
+
