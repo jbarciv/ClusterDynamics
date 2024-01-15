@@ -18,7 +18,7 @@
     <br />
     <a href="#satellite-data">Satellite Data</a>
     ·
-    <a href="https://github.com/jbarciv/ClusterDynamics/tree/main/project_report">Installation</a>
+    <a href="https://github.com/jbarciv/ClusterDynamics/tree/main/src">Installation</a>
     ·
     <a href="#contact">Contact</a>
   </p>
