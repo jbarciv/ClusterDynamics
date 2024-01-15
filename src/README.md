@@ -59,7 +59,7 @@ In order to reproduce the Natural Dynamics segmentation you can clone this repo:
 ```
 git clone https://github.com/jbarciv/ClusterDynamics.git
 ```
-or just download the [Notebook for the Natural Dynamics](Natural_Dynamics_with_k_Means.ipynb) along with the [data folder](/data).
+or just download the [Notebook for the Natural Dynamics](Natural_Dynamics_with_k_Means.ipynb) along with the [data folder](data).
 
 ### Prerequisites
 
