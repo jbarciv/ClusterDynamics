@@ -93,7 +93,7 @@ for the `tesseract` package you should run
 ```
 where pytesseract
 ```
-and changing the following path with the output:
+and change the following path with the previous output:
 ```
 pytesseract.pytesseract.tesseract_cmd="here/the/output/for/previous/command"
 ```
