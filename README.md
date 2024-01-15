@@ -18,6 +18,8 @@
     <br />
     <a href="#satellite-data">Satellite Data</a>
     ·
+    <a href="https://github.com/jbarciv/ClusterDynamics/tree/main/project_report">Installation</a>
+    ·
     <a href="#contact">Contact</a>
   </p>
 </div>
@@ -35,6 +37,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <ul>
+        <li><a href="#results-for-reservoirs-shrinkage">Results</a></li>
+      </ul>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
