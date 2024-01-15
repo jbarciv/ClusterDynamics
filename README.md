@@ -85,8 +85,9 @@ For the natural dynamics we have focus in Sau and Susqueda reservoirs placed in 
 
 ![Natural Scenarios](./figs/reservoir_place.png)
 
-With the help of [Sentinel Hub](https://www.sentinel-hub.com/) we have obtained a suficient data.
+With the help of [Sentinel Hub](https://www.sentinel-hub.com/) we have obtained a suficient data consisting in four gifs with 50 images each one for the year between 2020 and 2024.
 
+This is the one for 2020:
 ![lakes_20_21](./src/data/lakes_20_21.gif)
 
 Some results for the clustering offer different performance depending on the images as shown below. (1) clusters properly the total water area while (2) is not.
