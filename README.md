@@ -74,7 +74,7 @@ List of major frameworks/libraries used for this project.
 <!-- USAGE EXAMPLES -->
 ## Satellite Data
 
- In this repo we study how clustering behave in different urban scenarios from Europe and US. For this urban clustering study we have used Geemap and Google Colab.
+ In this repo we study how clustering behaves in different urban scenarios from Europe and US. For this urban clustering study we have used Geemap and Google Colab.
 
 New York
 ![Urban Scenarios - New York](./figs/NewYork.jpg)
