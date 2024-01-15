@@ -16,7 +16,7 @@
     <a href="https://github.com/jbarciv/ClusterDynamics/tree/main/project_report"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#usage">Satellite Data</a>
+    <a href="#satellite-data">Satellite Data</a>
     ·
     <a href="#contact">Contact</a>
   </p>
