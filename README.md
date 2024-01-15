@@ -80,7 +80,7 @@ New York
 
 ![Urban Scenarios - New York](./figs/NewYork.jpg)
 
-Paris
+Madrid
 
 ![Urban Scenarios - Paris](./figs/NS_Madrid_8.jpg)
 
