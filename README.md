@@ -4,7 +4,7 @@
 <a name="readme-top"></a>
 
 ![GitHub contributors](https://img.shields.io/github/contributors/jbarciv/DrowsyDrive-Alert)
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 <br />
 <div align="center">
   
